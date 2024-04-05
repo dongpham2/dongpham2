@@ -1,12 +1,12 @@
 # 💫About Me :
-  const getAboutMe = ()=>{
-      return {
+  const getAboutMe = ()=> {
       
-        basiclanguage: "C++, Java",
-        mainLanguage:"Javascript, Typescript",
-        frontend:"Reactjs, Vuejs, Boostrap,...",
-        backend:"Nodejs,",
-        database:"Mysql,GraphQL, PostgreSQL",
+      return {
+        BasicLanguage: "C++",
+        MainLanguage: "Javascript, Typescript",
+        Frontend:"Reactjs, Vuejs, Nextjs",
+        Backend: "Nodejs",
+        Database: "Mysql, GraphQL, PostgreSQL",
       }
   }
 
