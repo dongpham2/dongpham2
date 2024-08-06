@@ -4,7 +4,7 @@
       return {
         BasicLanguage: "C++",
         MainLanguage: "Javascript, Typescript",
-        Frontend:"Reactjs, Vuejs, Nextjs",
+        Frontend:"Reactjs, Vuejs, Angular, Nextjs",
         Backend: "Nodejs",
         Database: "Mysql, GraphQL, PostgreSQL",
       }
