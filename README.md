@@ -1,14 +1,16 @@
-# 💫About Me :
-  const getAboutMe = ()=> {
-      
-      return {
-        BasicLanguage: "C++",
-        MainLanguage: "Javascript, Typescript",
-        Frontend:"Reactjs, Vuejs, Angular, Nextjs",
-        Backend: "Nodejs",
-        Database: "Mysql, GraphQL, PostgreSQL",
-      }
-  }
+# 👋 Hi there! Welcome to my GitHub profile!  
+
+## 💫 About Me  
+
+```javascript
+const getAboutMe = () => ({
+  BasicLanguage: "C++",
+  MainLanguages: ["JavaScript", "TypeScript"],
+  Frontend: ["React.js", "Vue.js", "Angular", "Next.js"],
+  Backend: ["Node.js"],
+  Database: ["MySQL", "GraphQL", "PostgreSQL"],
+});
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandong-dev/) 
