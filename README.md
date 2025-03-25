@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub profile!  
 
-🚀 Passionate Frontend Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast  
+🚀 Passionate Software Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast  
 
 ## 💫 About Me  
 
